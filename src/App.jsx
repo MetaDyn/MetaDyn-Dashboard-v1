@@ -12,7 +12,7 @@ export default function App() {
     <Box minH="100vh" bg="gray.50" py={8}>
       <Container maxW="container.xl">
         <VStack spacing={8}>
-          <Heading size="xl" color="gray.700">Game Dashboard</Heading>
+          <Heading size="xl" color="gray.700">MetaDyn - Dashboard</Heading>
           
           <HStack spacing={4}>
             <Button
